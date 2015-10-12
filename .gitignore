@@ -11,3 +11,4 @@ release.properties
 *.pyc
 **/.DS_Store
 /nbproject/private/
+/dist/
