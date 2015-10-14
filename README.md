@@ -1,3 +1,7 @@
+# Fork notice
+
+This is a fork of [René Jeschke's project](https://github.com/rjeschke/txtmark). It was simply ported to Netbeans.
+
 # Txtmark - Java markdown processor
 Copyright (C) 2011-2015 René Jeschke <rene_jeschke@yahoo.de>  
 See LICENSE.txt for licensing information.
